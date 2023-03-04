@@ -1143,9 +1143,9 @@ background-color: var(--bs-red);
 @keyframes up-and-down {
   0%,
   100% {
-    top: 0;
+    top: -20px;
   }
-  50% {
+  40% {
     top: -50px;
   }
 }
